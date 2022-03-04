@@ -12,7 +12,7 @@
 #define DHTPIN 4
 #define DHTTYPE DHT22
 DHT dht(DHTPIN, DHTTYPE);
-float temp;
+int temp;
 int hum;
 int wetPin = A2;     
 long int wetValue = 0; 
