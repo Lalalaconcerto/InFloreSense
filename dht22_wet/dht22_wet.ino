@@ -1,3 +1,8 @@
+// dht22_wet.ino
+// August Weinbren, Qian Jin, Xiaoling La
+// This firmware was created to test the plant monitor itself,
+// which tests ambient temperature, ambient humidity, and soil moisture
+
 #include <Wire.h> 
 #include "DHT.h"
 
