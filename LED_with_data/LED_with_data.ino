@@ -1,5 +1,6 @@
 // LED_with_data
 // August Weinbren, Xiaoling La, Qian Jin
+//
 // This software measures moisture and temperature, outputting an 8x8 graphic showing 
 // whether they need to be dropped or raised for optimal plant health
 
