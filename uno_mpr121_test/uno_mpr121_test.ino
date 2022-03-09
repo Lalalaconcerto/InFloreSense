@@ -2,7 +2,7 @@
   Modified on Jan 20, 2021
   Modified by MehranMaleki from Arduino Examples
   Home
-  //reference:https://electropeak.com/learn/interfacing-mpr121-capacitive-touch-sensor-module-with-arduino/
+  reference:https://electropeak.com/learn/interfacing-mpr121-capacitive-touch-sensor-module-with-arduino/
 */
 
 #include <Wire.h>
