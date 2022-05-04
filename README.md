@@ -23,7 +23,3 @@ https://youtu.be/Bgrby5ReTXs
 - Capacitive touch sensor(Input)
 - 8*8 matric LED (Output)
 - Speaker(Output)
-
-
-## Reference
-
