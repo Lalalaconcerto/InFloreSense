@@ -18,11 +18,11 @@ https://youtu.be/Bgrby5ReTXs
 
 - Raspberry pi
 - Arduino Uno wifi 
-- DHT-22 sensor
-- Soil moisture sensor
-- Capacitive touch sensor
-- 8*8 matric LED 
-- Speaker
+- DHT-22 sensor(Input)
+- Soil moisture sensor(Input)
+- Capacitive touch sensor(Input)
+- 8*8 matric LED (Output)
+- Speaker(Output)
 
 
 ## Reference
