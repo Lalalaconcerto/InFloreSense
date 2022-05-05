@@ -30,8 +30,6 @@ Instead of measuring intra-plant voltage, we pivoted to visualising and sonifyin
 
 ![Flow chart](./flowchart.png "flow chart")
   
-  - Figure1:  Flow chart of the project
-
 #### Moisture sensing
 
 Capacitive soil moisture sensor can measure the soil moisture distrectly. The main component of the sensor is the humidity sensitive capacitor and the number of absorbed water changes with the change in ambient humidity(Boudaden,et,al,2018). By measuring the capacitance value, it can be converted into a humidity value. The soil moisture value can be directly read using the digital pin of the Arduino.
