@@ -1,4 +1,4 @@
-# InFloreSense
+# InFloreSense: Visualised and Sonified Plant Data
 
 [GitHub Repo](https://github.com/Lalalaconcerto/InFloreSense)
 
@@ -47,8 +47,6 @@ MPR 121 capacitive touch sensor can handle up to 12 individual touch pads. Each 
 The LED matrix consists of 64 red LEDs. Some simple images were displayed with five different icons to show different conditions of the plant. These icons are shown below; from left to right, they correspond to healthy conditions, high temperature, low temperature, overly moist soil, and overly dry soil​. Every time you touch a leaf, the icon will show the current conditions until 5 seconds after your finger has been removed. If neither humidity nor temperature are in the correct range, humidity and temperature icons will be alternately displayed on the LED matrix for one second. If one metric is in a good range, then the matrix will exclusively show the icon representing the metric that needs to be changed. If both conditions are good, the smiling icon will be shown.
 
 ![LED icons](./ledicons.png "LED icons")
-
- Figure2:  LED icons design
 
 #### Data flow to Raspberry Pi
 
