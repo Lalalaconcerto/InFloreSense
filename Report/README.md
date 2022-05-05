@@ -4,7 +4,7 @@
 
 ## Problem
 
-Plants can be difficult to take care of. Shortly after purchase, plants frequently die due to overwatering (Vanzile, 2021). Plants also often die due to underwatering after the novelty of the new plant wears off, with Art Markman of the University of Texas attributing this issue to a lack of reminders (Bregel, 2019). More experienced plant-owners, such as florist Liz Vayda, recommend that the best way to become a better plant caretaker is to simply learn more about the plants and pay attention to them (Bregel, 2019).
+Plants can be difficult to take care of. Shortly after purchase, plants frequently die due to overwatering (Vanzile 2021). Plants also often die due to underwatering after the novelty of the new plant wears off, with Art Markman of the University of Texas attributing this issue to a lack of reminders (Bregel 2019). More experienced plant-owners, such as florist Liz Vayda, recommend that the best way to become a better plant caretaker is to simply learn more about the plants and pay attention to them (Bregel 2019).
 
 While existing plant monitors will give information about the current needs of a plant, the data they provide is either overly simplified or difficult to interpret. Additionally the data is only accessible via a visual interface. By providing data that is overly simplified, these plant monitors do not allow plant owners to develop their own intuitive sense of their plants’ needs. Providing data that is difficult to interpret can prevent the data from being acted on, potentially causing the plant owner to ignore the data completely. Lastly, the visual-only interfaces make plant monitors inaccessible to blind or hard-of-sight plant-owners.
 
