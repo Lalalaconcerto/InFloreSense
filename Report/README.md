@@ -29,7 +29,8 @@ We initially planned to visualise and sonify the voltage signals produced by a p
 Instead of measuring intra-plant voltage, we pivoted to visualising and sonifying moisture and temperature plant data using a leaf as the user interface​: we used a leaf as a touch sensor to trigger the data to be revealed to a user. The plant’s needs were expressed visually with an 8x8 pixel matrix and auditorily with a choral voice and bass drum. We sonified the full temperature and moisture range that could be expected, allowing our users to develop an intuition for the plant’s exact conditions from listening to the audio. The flow chart of the project is shown below.
 
 ![Flow chart](./flowchart.png "flow chart")
-  Figure1:  Flow chart of the project
+  
+  - Figure1:  Flow chart of the project
 
 #### Moisture sensing
 
