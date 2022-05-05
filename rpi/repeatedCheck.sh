@@ -1,2 +1,2 @@
 #!/bin/bash
-sonic-pi-tool.py eval-file ~/Desktop/infloresense.txt
+sonic-pi-tool.py eval-file ~/Desktop/infloresense.rb
